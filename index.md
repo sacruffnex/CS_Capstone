@@ -1,6 +1,6 @@
 ## Software Design & Engineering Enhancement
 
-### Luxury Ocean Cruise Outings Booking Program
+### [Luxury Ocean Cruise Outings Booking Program](https://github.com/sacruffnex/CS_Capstone)
 
 What is this program?
 
@@ -16,7 +16,7 @@ I underestimated the time I needed to finish this.  If I was familiar with the p
 
 ## Algorithms & Data Structure Enhancement
 
-### SNHU Travel Company Slide Show
+### [SNHU Travel Company Slide Show](https://github.com/sacruffnex/CS_Capstone/tree/main/Destination%20Project)
 
 What is this program?
 
@@ -32,7 +32,7 @@ I learned how to create and update a simple GUI-based program.  Once again, I re
 
 ## Databases Enhancement
 
-### Bubba Gump Shimp Company Analysis
+### [Bubba Gump Shimp Company Analysis](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
 What is this program?
 
