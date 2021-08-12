@@ -36,37 +36,12 @@ I learned how to create and update a simple GUI-based program.  Once again, I re
 
 What is this program?
 
-This program was created for the SNHU Travel Company as a booking tool assistant.  This was built in March 2020 in SNHU's CS-250 Software Development Lifecycle course.  It oringinally displayed the top five wellness destinations based on customer feedback.
+This analysis was done for the Bubba Gump Shrimp Compnay.  This was done in December 2020 in SNHU's DAT-220 Fundamentals of Data Mining course.  The data was from 500 surveys sent to customers who've purchased at least one item in one of their restaurants.  The analysis provided recommendations to increase website sales for the company.  The process involved cleaning the data, performing the analysis and providing recommendations.
 
 How did I update this program?
 
-I selected this program because there was some customer feedback that wasn't implemented.  The feedback was for viewing top cruise and museum destinations.  First, I started by creating new user stories based on the feedback.  Each user story described different details about the program that they want implemented.  Next, I created new test cases to use against the new features.  The test cases detailed what the program should do and what to display.  Finally, I updated the slide show to show the top five wellness, cruise and museum destinations.
+I decided to update this analysis because the recommendations only involved a subset of the data, website information, and ignored the rest.  The additionals recommendations I provided were ways to increase restaurant and third-party retailer sales by demographics and geographical locations.  To accomplish this, I calculated the highest amount of restaurant and third-party retailer purchases by age and income based off of the original data.  Next, I pulled population and income data by zip code from the United States Census database.  Then, I cleaned the two reports and added in fields that I needed to combine them all.  After that, I calculated the top 10 states based off of the highest age and income fields that I found in the original data.  Lastly, I created a slide show about the data and recommendations.
 
 What I learned from updating this program.
 
-I learned how to create and update a simple GUI-based program.  Once again, I referenced [Stack Overflow](https://stackoverflow.com/) a lot.  I also had to reteach myself how the program operated and how each module worked with each other.  There was a lot of trial and error that taught me different ways to accomplish my objective.
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The two things I learned were new Excel formulas for extracting data and how to find specific data from the census database.  The Excel formulas were needed because I pulled the reports that were too granular about the geographical area.  I had pulled them by zip code but ended up analyzing based off of states.  I had to pull zip codes by state then reference the list to label the zip codes correctly.  For the census database, I can now navigate and find data that I need.  I was overwhelmed at first but I'm now comfortable with the website.  There is a lot more information that I didn't use that could useful in future analyses.
