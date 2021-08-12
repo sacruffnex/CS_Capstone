@@ -1,8 +1,12 @@
-# How to do blah blah
+# How to do use each enhancement
 
 ## Bubba Gump Shrimp Analysis (Databases Enhancement)
 
-do this this
+- Survey Analysis.pptx
+    - Open slide show to view analysis and recommendations
+
+- Survey-Census Data.xlsx
+    - Open Excel to view the original survey data and merged census data
 
 ## CruiseShipProject (Software Design and Engineering Enhancement)
 
