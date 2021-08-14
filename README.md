@@ -1,4 +1,4 @@
-# How to do use each enhancement
+# How to use each enhancement
 
 ## Bubba Gump Shrimp Analysis (Databases Enhancement)
 
