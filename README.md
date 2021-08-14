@@ -1,6 +1,6 @@
 # How to use each enhancement
 
-## Bubba Gump Shrimp Analysis (Databases Enhancement)
+## [Bubba Gump Shrimp Analysis (Databases Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
 - Survey Analysis.pptx
     - Open slide show to view analysis and recommendations
@@ -21,7 +21,7 @@
 9. Hover over Run As and click on Java Application
 10. Follow the menu in the program
 
-## Destination Project (Algorithms and Data Structures Enhancement)
+## [Destination Project (Algorithms and Data Structures Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Destination%20Project)
 
 - Destination Slide Show.jar
     1. Download the .jar file
