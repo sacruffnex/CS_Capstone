@@ -1,4 +1,7 @@
-# [How to use each enhancement](https://github.com/sacruffnex/CS_Capstone)
+[Kyle's GitHub Main Page](https://github.com/sacruffnex/CS_Capstone)
+[Kyle's GitHub Page/Artifact Explanations](https://sacruffnex.github.io/CS_Capstone/)
+
+# How to use each enhancement
 
 ## [Bubba Gump Shrimp Analysis (Databases Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
