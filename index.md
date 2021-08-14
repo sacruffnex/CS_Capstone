@@ -22,7 +22,7 @@ I underestimated the time I needed to finish this.  If I was familiar with the p
 
 *What is this program?*
 
-This program was created for the SNHU Travel Company as a booking tool assistant.  This was built in March 2020 in SNHU's CS-250 Software Development Lifecycle course.  It oringinally displayed the top five wellness destinations based on customer feedback.
+This program was created for the SNHU Travel Company as a booking tool assistant.  This was built in March 2020 in SNHU's CS-250 Software Development Lifecycle course.  It originally displayed the top five wellness destinations based on customer feedback.
 
 *How did I update this program?*
 
@@ -34,15 +34,15 @@ I learned how to create and update a simple GUI-based program.  Once again, I re
 
 ## Databases Enhancement
 
-### [Bubba Gump Shimp Company Analysis](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
+### [Bubba Gump Shrimp Company Analysis](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
 *What is this program?*
 
-This analysis was done for the Bubba Gump Shrimp Compnay.  This was done in December 2020 in SNHU's DAT-220 Fundamentals of Data Mining course.  The data was from 500 surveys sent to customers who've purchased at least one item in one of their restaurants.  The analysis provided recommendations to increase website sales for the company.  The process involved cleaning the data, performing the analysis and providing recommendations.
+This analysis was done for the Bubba Gump Shrimp Company.  This was done in December 2020 in SNHU's DAT-220 Fundamentals of Data Mining course.  The data was from 500 surveys sent to customers who've purchased at least one item in one of their restaurants.  The analysis provided recommendations to increase website sales for the company.  The process involved cleaning the data, performing the analysis and providing recommendations.
 
 *How did I update this program?*
 
-I decided to update this analysis because the recommendations only involved a subset of the data, website information, and ignored the rest.  The additionals recommendations I provided were ways to increase restaurant and third-party retailer sales by demographics and geographical locations.  To accomplish this, I calculated the highest amount of restaurant and third-party retailer purchases by age and income based off of the original data.  Next, I pulled population and income data by zip code from the United States Census database.  Then, I cleaned the two reports and added in fields that I needed to combine them all.  After that, I calculated the top 10 states based off of the highest age and income fields that I found in the original data.  Lastly, I created a slide show about the data and recommendations.
+I decided to update this analysis because the recommendations only involved a subset of the data, website information, and ignored the rest.  The additional recommendations I provided were ways to increase restaurant and third-party retailer sales by demographics and geographical locations.  To accomplish this, I calculated the highest amount of restaurant and third-party retailer purchases by age and income based off of the original data.  Next, I pulled population and income data by zip code from the United States Census database.  Then, I cleaned the two reports and added in fields that I needed to combine them all.  After that, I calculated the top 10 states based off of the highest age and income fields that I found in the original data.  Lastly, I created a slide show about the data and recommendations.
 
 *What I learned from updating this program.*
 
