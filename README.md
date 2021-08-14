@@ -1,4 +1,4 @@
-[Kyle's GitHub Main Page](https://github.com/sacruffnex/CS_Capstone)
+[Kyle's GitHub Artifact Page](https://github.com/sacruffnex/CS_Capstone)
 
 [Kyle's GitHub Page/Artifact Explanations](https://sacruffnex.github.io/CS_Capstone/)
 
