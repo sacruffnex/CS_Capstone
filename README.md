@@ -1,4 +1,4 @@
-# How to use each enhancement
+# [How to use each enhancement](https://github.com/sacruffnex/CS_Capstone)
 
 ## [Bubba Gump Shrimp Analysis (Databases Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
@@ -33,5 +33,5 @@
     - Click on tabs on the bottom to navigate
 
 - [Revised Test Cases.xlsx](https://github.com/sacruffnex/CS_Capstone/blob/main/Destination%20Project/Revised%20Test%20Cases.xlsx)
-    - Open Excel to view the test cases and expected outputs
+    - Open Excel to view the test cases and expected program outputs
     - Click on tabs on the bottom to navigate
