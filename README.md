@@ -2,10 +2,10 @@
 
 ## [Bubba Gump Shrimp Analysis (Databases Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Bubba%20Gump%20Shrimp%20Company%20Analysis)
 
-- Survey Analysis.pptx
+- [Survey Analysis.pptx](https://github.com/sacruffnex/CS_Capstone/blob/main/Bubba%20Gump%20Shrimp%20Company%20Analysis/Survey%20Analysis.pptx)
     - Open slide show to view analysis and recommendations
 
-- Survey-Census Data.xlsx
+- [Survey-Census Data.xlsx](https://github.com/sacruffnex/CS_Capstone/blob/main/Bubba%20Gump%20Shrimp%20Company%20Analysis/Survey-Census%20Data.xlsx)
     - Open Excel to view the original survey data and merged census data
 
 ## CruiseShipProject (Software Design and Engineering Enhancement)
@@ -23,15 +23,15 @@
 
 ## [Destination Project (Algorithms and Data Structures Enhancement)](https://github.com/sacruffnex/CS_Capstone/tree/main/Destination%20Project)
 
-- Destination Slide Show.jar
+- [Destination Slide Show.jar](https://github.com/sacruffnex/CS_Capstone/blob/main/Destination%20Project/Destination%20Slide%20Show.jar)
     1. Download the .jar file
     2. Open the .jar file
     3. Click on arrows to navigate through the slide show
 
-- Product Backlog & User Stories.xlsx
+- [Product Backlog & User Stories.xlsx](https://github.com/sacruffnex/CS_Capstone/blob/main/Destination%20Project/Product%20Backlog%20%26%20User%20stories.xlsx)
     - Open Excel to view the user stories and prioritized list of stories
     - Click on tabs on the bottom to navigate
 
-- Revised Test Cases.xlsx
+- [Revised Test Cases.xlsx](https://github.com/sacruffnex/CS_Capstone/blob/main/Destination%20Project/Revised%20Test%20Cases.xlsx)
     - Open Excel to view the test cases and expected outputs
     - Click on tabs on the bottom to navigate
