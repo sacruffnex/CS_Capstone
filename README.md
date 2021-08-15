@@ -1,3 +1,5 @@
+[Kyle's Professional Self-Assessment](https://github.com/sacruffnex/CS_Capstone/blob/main/Professional%20Self-Assessment.docx)
+
 [Kyle's GitHub Artifact Page](https://github.com/sacruffnex/CS_Capstone)
 
 [Kyle's GitHub Page/Artifact Explanations](https://sacruffnex.github.io/CS_Capstone/)
