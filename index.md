@@ -8,7 +8,7 @@
 
 *What is this program?*
 
-    This program was created for the Luxury Ocean Cruise Outings Company to coordinate cruise bookings.  I built it in December 2019 in Southern New Hampshire University's (SNHU) IT-145 Foundations in Applications Development course.  It operates via a text-based menu that allows the user to add, edit and print ships, cruises and passengers.  It initially only allowed for the user to add and print but not the edit functions.  This is why I selected this specific program.
+This program was created for the Luxury Ocean Cruise Outings Company to coordinate cruise bookings.  I built it in December 2019 in Southern New Hampshire University's (SNHU) IT-145 Foundations in Applications Development course.  It operates via a text-based menu that allows the user to add, edit and print ships, cruises and passengers.  It initially only allowed for the user to add and print but not the edit functions.  This is why I selected this specific program.
 
 *How did I update this program?*
 
