@@ -1,6 +1,6 @@
 # My professional self-assessment is located [here](https://github.com/sacruffnex/CS_Capstone/blob/main/Professional%20Self-Assessment.docx)
 
-# Please view [README](https://github.com/sacruffnex/CS_Capstone/blob/main/README.md) for instructions on how to use each artifact
+# Please view the [README](https://github.com/sacruffnex/CS_Capstone/blob/main/README.md) for instructions on how to use each artifact
 
 ## Software Design & Engineering Enhancement
 
